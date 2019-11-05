@@ -7,6 +7,6 @@ Use the raw url from github:
 
 For example:
 
-wget `https://raw.githubusercontent.com/acocauab/practica2csv/master/test.csv`
+`wget https://raw.githubusercontent.com/acocauab/practica2csv/master/test.csv`
 
 
